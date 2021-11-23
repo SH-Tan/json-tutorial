@@ -1,0 +1,4 @@
+/home/tan/json-tutorial/build/CMakeFiles/edit_cache.dir
+/home/tan/json-tutorial/build/CMakeFiles/rebuild_cache.dir
+/home/tan/json-tutorial/build/CMakeFiles/leptjson.dir
+/home/tan/json-tutorial/build/CMakeFiles/leptjson_test.dir

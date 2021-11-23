@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/tan/json-tutorial/build",
+  "command": "/usr/bin/x86_64-linux-gnu-gcc-5  -ansi -pedantic -Wall -g -o CMakeFiles/leptjson.dir/leptjson.c.o -c /home/tan/json-tutorial/tutorial01/leptjson.c",
+  "file": "/home/tan/json-tutorial/tutorial01/leptjson.c"
+},
+{
+  "directory": "/home/tan/json-tutorial/build",
+  "command": "/usr/bin/x86_64-linux-gnu-gcc-5  -ansi -pedantic -Wall -g -o CMakeFiles/leptjson_test.dir/test.c.o -c /home/tan/json-tutorial/tutorial01/test.c",
+  "file": "/home/tan/json-tutorial/tutorial01/test.c"
+}
+]
